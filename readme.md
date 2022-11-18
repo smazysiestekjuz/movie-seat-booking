@@ -8,4 +8,5 @@ User can select/deselect seats
 User can not select occupied seats
 Number of seats and price will update
 Save seats, movie and price to local storage so that UI is still populated on refresh
+
 Live Demo: https://vanillawebprojects.com/projects/movie-seat-booking/
